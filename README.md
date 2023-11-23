@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CPUCloudCode
-- 👀 I’m interested in Anime
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Entwicklung
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me ...
